@@ -51,7 +51,7 @@
    **Функция потерь:**
 - Такая же, как у VAE: BCE + KL-дивергенция.
 
-
+## Установка
 ```bash
 pip install torch torchvision matplotlib scikit-learn numpy pandas scikit-image
 
